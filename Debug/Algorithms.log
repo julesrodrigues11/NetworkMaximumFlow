@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\jules\source\repos\Algorithms\Algorithms\main.cpp(136,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\Algorithms\Algorithms\main.cpp(188,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\Algorithms\Algorithms\main.cpp(259,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\Algorithms\Algorithms\main.cpp(303,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\Algorithms\Algorithms\main.cpp(315,22): warning C4018: '<': signed/unsigned mismatch
+  Algorithms.vcxproj -> C:\Users\jules\source\repos\Algorithms\Debug\Algorithms.exe
